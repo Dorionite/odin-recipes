@@ -1,1 +1,1 @@
-# odin-recipes
+This site is meant to summarize all that I've learned about the HTML so far.
